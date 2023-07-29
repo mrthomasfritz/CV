@@ -3,7 +3,7 @@
 #0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0
 #0
 #0 Demo Bash / Korn Shell Script by: 
-#0		Thomas Fritz (408)466-8096
+#0		Thomas Fritz (210)560-0463
 #0		Senior Linux Systems Eng.
 #0		Copyright 2017-Apr-16, All Rights Reserved
 #0 
